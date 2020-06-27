@@ -1,0 +1,10 @@
+MyMoviesCert
+WueyCNUZatIcQHN5
+keytool -exportcert -list -v -alias mymoviescert -keystore "C:\CertificadosAndroid\mymoviescert.jks"
+MD5:  51:9A:45:BB:B5:62:8C:30:78:19:5F:7B:98:2E:C2:27
+SHA1: 05:B3:BE:A7:75:D1:B7:DC:5B:61:21:14:AF:1F:43:47:75:31:F3:02
+SHA256: 26:75:9A:B5:A3:9E:28:31:DF:B0:52:85:D0:E6:09:0A:B1:6C:0B:71:77:4E:9F:7E:65:EB:B3:6C:81:4F:18:31
+
+
+
+$ git clone https://github.com/ismael-lima/MyMovies.git

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684954721550",
+    "firebase_url": "https://mymovies-fc878.firebaseio.com",
+    "project_id": "mymovies-fc878",
+    "storage_bucket": "mymovies-fc878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684954721550:android:065f6f5a191fd4cd290b5f",
+        "android_client_info": {
+          "package_name": "com.ismael.lima.mymovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684954721550-b30s9erfs4mp9tqdqocs75urc6pcgb0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismael.lima.mymovies",
+            "certificate_hash": "05b3bea775d1b7dc5b612114af1f43477531f302"
+          }
+        },
+        {
+          "client_id": "684954721550-p35t2hrjbsmu3o3nv7bn20qh7en4fa2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHYVZb8U3zxPtwat_dLbbGhTKZnRtPn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684954721550-p35t2hrjbsmu3o3nv7bn20qh7en4fa2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
